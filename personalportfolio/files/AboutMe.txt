@@ -1,0 +1,2 @@
+I am a passionate frontend developer. 
+I developed few of the gaming projects as tic tac toe,Hangman.
